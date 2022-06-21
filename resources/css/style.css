@@ -3,7 +3,9 @@ body {
   color: white;
   text-align: center;
 }
-
+h1 {
+  font-size: larger;
+}
 a {
   color: aquamarine;
 }
